@@ -1,0 +1,953 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Preciso WPEC 1.0\n"
+"POT-Creation-Date: 2014-02-22 19:45+0500\n"
+"PO-Revision-Date: 2014-02-22 19:46+0500\n"
+"Last-Translator: Pixelart <info@pixelartinc.com>\n"
+"Language-Team: Pixelart <info@pixelartinc.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:6
+msgid "ERROR <span>404</span>"
+msgstr "ERREUR <span>404</span>"
+
+#: 404.php:7
+msgid "Sorry, something went wrong."
+msgstr "Desole, Page non trouvee."
+
+#: 404.php:8
+msgid "Back to Home Page"
+msgstr "Retourner sur le site"
+
+#: archive.php:15
+#, php-format
+msgid "All posts in '%s'"
+msgstr ""
+
+#: archive.php:17
+#, php-format
+msgid "All posts tagged '%s'"
+msgstr ""
+
+#: archive.php:19 archive.php:21 archive.php:23
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:26
+msgid "All posts by "
+msgstr ""
+
+#: archive.php:28
+msgid "News Archive"
+msgstr ""
+
+#: archive.php:50 index.php:36 search.php:32 single-portfolio.php:59
+#: single.php:19 templates/template-sl.php:29 templates/template-sr.php:27
+msgid "by"
+msgstr "par"
+
+#: archive.php:50 index.php:36 search.php:32 single-portfolio.php:59
+#: single.php:19 templates/template-sl.php:29 templates/template-sr.php:27
+msgid "on"
+msgstr "sur"
+
+#: archive.php:50 index.php:36 search.php:32 single.php:19
+msgid "in"
+msgstr "dans"
+
+#: archive.php:53 index.php:39 search.php:35
+msgid "Continue"
+msgstr "Continuer"
+
+#: comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:18
+msgid "COMMENTS"
+msgstr ""
+
+#: comments.php:19
+msgid "No comment for this post."
+msgstr ""
+
+#: comments.php:19
+msgid "One comment for this post."
+msgstr ""
+
+#: comments.php:19
+msgid "% Comments for this post."
+msgstr ""
+
+#: comments.php:31
+msgid "Sorry no comment yet."
+msgstr ""
+
+#: comments.php:35
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:50
+msgid "LEAVE A COMMENT"
+msgstr ""
+
+#: comments.php:53
+msgid "You must be <a href=\""
+msgstr ""
+
+#: comments.php:58 comments.php:69
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:59
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:68
+msgid "Submit"
+msgstr ""
+
+#: header.php:33
+msgid "My Account"
+msgstr "Mon Compte"
+
+#: header.php:34 wpsc-cart_widget.php:21 wpsc-cart_widget.php:59
+msgid "Shopping Cart"
+msgstr "Panier"
+
+#: header.php:35
+msgid "Checkout"
+msgstr "Passer Commande"
+
+#: header.php:47
+msgid "You are logged in as"
+msgstr "Vous etes connecte"
+
+#: header.php:48
+msgid "Log Out"
+msgstr "Se deconnecter"
+
+#: header.php:52
+msgid "Sign In"
+msgstr "Se connecter"
+
+#: header.php:53
+msgid "Register"
+msgstr "Inscription"
+
+#: header.php:104 searchform.php:2
+msgid "SEARCH"
+msgstr "Recherche"
+
+#: search.php:12
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Rechercher: %s"
+
+#: single.php:41
+msgid "Tags: "
+msgstr "Tags"
+
+#: taxonomy-portfolio-categories.php:12
+msgid "PROJECTS IN"
+msgstr ""
+
+#: wpsc-account-downloads.php:2
+msgid "You have not purchased any downloadable products yet."
+msgstr ""
+
+#: wpsc-account-downloads.php:7
+msgid "File Names"
+msgstr ""
+
+#: wpsc-account-downloads.php:8
+msgid "Downloads Left"
+msgstr ""
+
+#: wpsc-account-downloads.php:9 wpsc-account-purchase-history.php:13
+msgid "Date"
+msgstr ""
+
+#: wpsc-account-edit-profile.php:14
+msgid "Save Profile"
+msgstr "Enregistrer votre profil"
+
+#: wpsc-account-purchase-history.php:12
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1295
+msgid "Status"
+msgstr "Statut"
+
+#: wpsc-account-purchase-history.php:14
+msgid "Price"
+msgstr "Prix"
+
+#: wpsc-account-purchase-history.php:18
+msgid "Payment Method"
+msgstr "Methode de paiement"
+
+#: wpsc-account-purchase-history.php:31
+msgid "No transactions for this month."
+msgstr "Pas de transaction pour ce mois"
+
+#: wpsc-account-purchase-history.php:42
+msgid "There have not been any purchases yet."
+msgstr "Vous n'avez pas fait d'achats pour le moment"
+
+#: wpsc-cart_widget.php:28
+msgid "item"
+msgstr "article"
+
+#: wpsc-cart_widget.php:43
+msgid "Subtotal:"
+msgstr "Sous-total"
+
+#: wpsc-cart_widget.php:45 wpsc-shopping_cart_page.php:150
+#: wpsc-shopping_cart_page.php:379
+msgid "Total:"
+msgstr "Total"
+
+#: wpsc-cart_widget.php:50
+msgid "Empty cart"
+msgstr "Panier vide"
+
+#: wpsc-cart_widget.php:61
+msgid "Empty! No product in cart."
+msgstr "Vide! pas de produits dans le panier"
+
+#: wpsc-grid_view.php:82
+msgid "Sale"
+msgstr "En solde"
+
+#: wpsc-grid_view.php:93 wpsc-single_product.php:89
+msgid "Shipping"
+msgstr "Livraison"
+
+#: wpsc-grid_view.php:110 functions/theme_metaboxes_rw.php:27
+msgid "Product Options"
+msgstr "Options de produits"
+
+#: wpsc-grid_view.php:123
+msgid "Les variantes de produits ne sont pas disponibles"
+msgstr "Les variantes de produits ne sont pas disponibles"
+
+#: wpsc-grid_view.php:133 wpsc-list_view.php:109
+msgid "Quantity:"
+msgstr "Quantite"
+
+#: wpsc-grid_view.php:139 wpsc-list_view.php:125
+#: demo/template-product-3col-demo.php:64 functions/custom_functions.php:401
+#: functions/shortcodes.php:66 inc/product_tab1.php:50 inc/product_tab2.php:50
+#: inc/product_tab3.php:50 templates/template-product-3col.php:64
+#: templates/template-product-4col.php:64
+msgid "Add To Cart"
+msgstr "Ajouter au Panier"
+
+#: wpsc-grid_view.php:141
+msgid "Sorry, sold out!"
+msgstr "Desole, article indisponible! "
+
+#: wpsc-grid_view.php:148 wpsc-list_view.php:129 inc/product_tab1.php:54
+#: inc/product_tab2.php:54 inc/product_tab3.php:54
+msgid "Updating cart..."
+msgstr "Mise a jour du panier..."
+
+#: wpsc-grid_view.php:169 wpsc-list_view.php:146
+msgid "There are no products in this group."
+msgstr "Pas de produits dans ce groupe."
+
+#: wpsc-list_view.php:84
+msgid "Product in stock"
+msgstr "Produit en stock"
+
+#: wpsc-list_view.php:86
+msgid "Product not in stock"
+msgstr "Produit pas en stock"
+
+#: wpsc-list_view.php:123 demo/template-product-3col-demo.php:62
+#: functions/custom_functions.php:399 functions/shortcodes.php:64
+#: inc/product_tab1.php:48 inc/product_tab2.php:48 inc/product_tab3.php:48
+#: templates/template-product-3col.php:62
+#: templates/template-product-4col.php:62
+msgid "Buy Now"
+msgstr "Acheter Maintenant"
+
+#: wpsc-list_view.php:133
+msgid "This product has sold out."
+msgstr "Cet article est epuise."
+
+#: wpsc-shopping_cart_page.php:12
+msgid "Oops, there is nothing in your cart."
+msgstr "Oops, votre panier est vide."
+
+#: wpsc-shopping_cart_page.php:12
+msgid "Visit Shop"
+msgstr "Visiter la boutique"
+
+#: wpsc-shopping_cart_page.php:21
+msgid "Review your Order"
+msgstr "Revoir votre commande"
+
+#: wpsc-shopping_cart_page.php:50
+msgid "Product"
+msgstr "Produit"
+
+#: wpsc-shopping_cart_page.php:51
+msgid "Qty"
+msgstr "Qte"
+
+#: wpsc-shopping_cart_page.php:52
+msgid "Per Unit"
+msgstr "Prix Unitaire"
+
+#: wpsc-shopping_cart_page.php:53
+msgid "Total"
+msgstr "Total"
+
+#: wpsc-shopping_cart_page.php:79
+msgid "No Image"
+msgstr "No Image"
+
+#: wpsc-shopping_cart_page.php:97 wpsc-shopping_cart_page.php:127
+msgid "Update"
+msgstr "Modifier"
+
+#: wpsc-shopping_cart_page.php:109
+msgid "-"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:123
+msgid "Use a Discount / Coupon Code"
+msgstr "Utiliser un bon d'achat"
+
+#: wpsc-shopping_cart_page.php:125
+msgid "Enter coupon code :"
+msgstr "Saisir le numero du bon d'achat:"
+
+#: wpsc-shopping_cart_page.php:132
+msgid "Desole!"
+msgstr "Desole!"
+
+#: wpsc-shopping_cart_page.php:132
+msgid "Coupon is not valid or is expired."
+msgstr "Le coupon est invalide ou expire."
+
+#: wpsc-shopping_cart_page.php:140 wpsc-shopping_cart_page.php:369
+msgid "Sous-Total:"
+msgstr "Sous-Total:"
+
+#: wpsc-shopping_cart_page.php:141 wpsc-shopping_cart_page.php:370
+msgid "Coupon Discount:"
+msgstr "Coupon:"
+
+#: wpsc-shopping_cart_page.php:142 wpsc-shopping_cart_page.php:371
+msgid "Shipping Charges:"
+msgstr "Frais de livraison:"
+
+#: wpsc-shopping_cart_page.php:160
+msgid "Returning Customer"
+msgstr "Client"
+
+#: wpsc-shopping_cart_page.php:168
+msgid "If you have bought from us before please sign in here to purchase."
+msgstr "Si inscrit, identifiez-vous ici."
+
+#: wpsc-shopping_cart_page.php:180
+msgid "New Customer"
+msgstr "Nouveau Client"
+
+#: wpsc-shopping_cart_page.php:181 wpsc-user-log.php:27
+msgid "Username:"
+msgstr "Nom:"
+
+#: wpsc-shopping_cart_page.php:183 wpsc-user-log.php:29
+msgid "Password:"
+msgstr "Mot de passe:"
+
+#: wpsc-shopping_cart_page.php:185
+msgid "E-mail"
+msgstr "E-mail"
+
+#: wpsc-shopping_cart_page.php:187
+msgid ""
+"Signing up is free and easy! please fill out your details your registration "
+"will happen automatically as you checkout. Don't forget to use your details "
+"to login with next time!"
+msgstr "La connexion est facile et automatique! Remplir ce formulaire pour completer votre inscription"
+       "N'oubliez pas votre login et mot de passe "
+       "pour vous connecter la prochaine fois!"
+
+#: wpsc-shopping_cart_page.php:243
+msgid "Same as billing address:"
+msgstr "Identique a l'adresse de facturation:"
+
+#: wpsc-shopping_cart_page.php:245
+msgid "Your order will be shipped to the billing address"
+msgstr "Votre commande va etre livree a l'adresse de facturation"
+
+#: wpsc-shopping_cart_page.php:298
+msgid "Enter your email address"
+msgstr "Saisir votre email"
+
+#: wpsc-shopping_cart_page.php:344
+msgid "How did you find us"
+msgstr "Comment nous avez-vous connu?"
+
+#: wpsc-shopping_cart_page.php:346
+msgid "Word of mouth"
+msgstr "Bouche a oreilles"
+
+#: wpsc-shopping_cart_page.php:347
+msgid "Advertising"
+msgstr "Publicite"
+
+#: wpsc-shopping_cart_page.php:348
+msgid "Internet"
+msgstr "Internet"
+
+#: wpsc-shopping_cart_page.php:349
+msgid "Existing Customer"
+msgstr "Client"
+
+#: wpsc-shopping_cart_page.php:357
+msgid "Choose a Payment Method"
+msgstr "Choisir un moyen de paiement"
+
+#: wpsc-shopping_cart_page.php:385
+msgid "You must agree with our Terms and Conditions for a successful purchase."
+msgstr "Vous etes d'accord avec nos conditions générales de vente."
+
+#: wpsc-shopping_cart_page.php:392
+msgid "Confirm Order"
+msgstr "Confirmer la commande"
+
+#: wpsc-shopping_cart_page.php:393
+msgid "Continue Shopping"
+msgstr "Poursuivre vos achats"
+
+#: wpsc-single_product.php:55
+msgid "Availability"
+msgstr "Disponibilité"
+
+#: wpsc-single_product.php:57
+msgid "In Stock"
+msgstr "En stock"
+
+#: wpsc-single_product.php:59
+msgid "Out of Stock"
+msgstr "Pas de Stock"
+
+#: wpsc-single_product.php:104
+msgid "Available Options"
+msgstr "Options disponibles"
+
+#: wpsc-single_product.php:121
+msgid "BUY NOW"
+msgstr "ACHETEZ MAINTENANT"
+
+#: wpsc-single_product.php:123
+msgid "ADD TO CART"
+msgstr "Ajouter au Panier"
+
+#: wpsc-single_product.php:129
+msgid "Donation"
+msgstr "Dons"
+
+#: wpsc-single_product.php:139
+msgid "Quantity"
+msgstr "Quantite"
+
+#: wpsc-single_product.php:152
+msgid "Description"
+msgstr "Description"
+
+#: wpsc-single_product.php:161
+msgid "Additional Description"
+msgstr "Description Complementaire"
+
+#: wpsc-single_product.php:171
+msgid "Personalize this Product"
+msgstr "Personaliser ce Produit"
+
+#: wpsc-single_product.php:175
+msgid "Personalize Your Product"
+msgstr "Personaliser Votre Produit"
+
+#: wpsc-single_product.php:176
+msgid ""
+"Complete this form to include a personalized message with your purchase."
+msgstr ""
+
+#: wpsc-single_product.php:187 wpsc-single_product.php:191
+msgid "Upload a File"
+msgstr ""
+
+#: wpsc-single_product.php:192
+msgid "Select a file from your computer to include with this purchase."
+msgstr ""
+
+#: wpsc-single_product.php:202
+msgid "Product Tags"
+msgstr ""
+
+#: wpsc-user-log.php:22
+msgid ""
+"You must be logged in to use this page. Please use the form below to login "
+"to your account."
+msgstr ""
+"Completer ce formulaire pour inclure un message personnel avec votre achat."
+msgstr ""
+
+#: wpsc-user-log.php:25
+msgid "Login to your Account"
+msgstr ""
+
+#: wpsc-user-log.php:33
+msgid "Remember me"
+msgstr "Se souvenir"
+
+#: wpsc-user-log.php:36
+msgid "Login &raquo;"
+msgstr "Login &raquo;"
+
+#: demo/template-product-3col-demo.php:75 functions/custom_functions.php:412
+#: functions/shortcodes.php:77 inc/product_tab1.php:65 inc/product_tab2.php:65
+#: inc/product_tab3.php:65 templates/template-product-3col.php:75
+#: templates/template-product-4col.php:75
+msgid "NEW"
+msgstr "NOUVEAU"
+
+#: demo/template-product-3col-demo.php:79 functions/custom_functions.php:416
+#: functions/shortcodes.php:81 inc/product_tab1.php:69 inc/product_tab2.php:69
+#: inc/product_tab3.php:69 templates/template-product-3col.php:79
+#: templates/template-product-4col.php:79
+msgid "SALE"
+msgstr "EN SOLDE"
+
+#: functions/custom_functions.php:126
+msgid " at "
+msgstr " at "
+
+#: functions/custom_functions.php:128
+msgid "Reply"
+msgstr "Repondre"
+
+#: functions/custom_functions.php:129
+msgid "Edit"
+msgstr "Editer"
+
+#: functions/custom_functions.php:142
+msgid "Home"
+msgstr "Accueil"
+
+#: functions/custom_functions.php:143
+msgid "Blog"
+msgstr ""
+
+#: functions/custom_functions.php:144
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: functions/custom_functions.php:145
+#, php-format
+msgid "Search Results for \"%s\""
+msgstr "Rechercher \"%s\""
+
+#: functions/custom_functions.php:146
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: functions/custom_functions.php:147
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: functions/custom_functions.php:148
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: functions/custom_functions.php:300
+msgid "Page"
+msgstr "Page"
+
+#: functions/theme_metaboxes_rw.php:10
+msgid "Gallery"
+msgstr "Gallerie"
+
+#: functions/theme_metaboxes_rw.php:17
+msgid "Upload Images"
+msgstr ""
+
+#: functions/theme_metaboxes_rw.php:34
+msgid "Product Label"
+msgstr "Etiquette produit"
+
+#: functions/theme_metaboxes_rw.php:39
+msgid "New"
+msgstr "Nouveau"
+
+#: functions/theme_metaboxes_rw.php:40
+msgid "Sell"
+msgstr "Vendre"
+
+#: functions/theme_metaboxes_rw.php:41
+msgid "None"
+msgstr "Aucun"
+
+#: inc/meta-box/inc/field.php:185
+msgid "+"
+msgstr ""
+
+#: inc/meta-box/inc/field.php:202
+msgid "&#8211;"
+msgstr ""
+
+#: inc/meta-box/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: inc/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: inc/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: inc/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: inc/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: inc/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr "Supprimer"
+
+#: inc/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: inc/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: inc/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: inc/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: inc/meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: inc/meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: inc/meta-box/inc/fields/oembed.php:76
+msgid "Previsualiser"
+msgstr ""
+
+#: inc/meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: inc/meta-box/inc/fields/post.php:66 inc/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:155
+#: inc/tgm-plugin-activation/plugins.php:46
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:156
+#: inc/tgm-plugin-activation/plugins.php:47
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:157
+#: inc/tgm-plugin-activation/plugins.php:48
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:169
+#: inc/tgm-plugin-activation/plugins.php:60
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:171
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1841
+#: inc/tgm-plugin-activation/plugins.php:61
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1086
+msgid "External Link"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "Private Repository"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1094
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1098
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1101
+msgid "Required"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1101
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1104
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1276
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1292
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1293
+msgid "Source"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1294
+msgid "Type"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1313
+msgid "Install"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1314
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1824
+msgid "Install package not available."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1825
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1826
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1827
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1828
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1840
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1950
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1951
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1951
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1960
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1951
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1960
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1952
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1953
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1960
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1961
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2053
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugins.php:11
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugins.php:21
+msgid "WP eCommerce"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugins.php:49
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugins.php:62
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/widgets/widget_contact.php:6
+msgid "A widget to display your contact."
+msgstr ""
+
+#: inc/widgets/widget_contact.php:7
+msgid "Pixel: Theme Contact"
+msgstr ""
+
+#: inc/widgets/widget_contact.php:47 inc/widgets/widget_social_media.php:53
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget_contact.php:50
+msgid "Address:"
+msgstr "Adresse"
+
+#: inc/widgets/widget_contact.php:53
+msgid "Phone:"
+msgstr "Telephone"
+
+#: inc/widgets/widget_contact.php:56
+msgid "Mobile:"
+msgstr ""
+
+#: inc/widgets/widget_contact.php:59
+msgid "Email:"
+msgstr ""
+
+#: inc/widgets/widget_social_media.php:6
+msgid "A widget to display social icons."
+msgstr ""
+
+#: inc/widgets/widget_social_media.php:7
+msgid "Pixel: Social Media"
+msgstr ""
+
+#: inc/widgets/widget_social_media.php:56
+msgid "Facebook:"
+msgstr ""
+
+#: inc/widgets/widget_social_media.php:59
+msgid "Twitter:"
+msgstr ""
+
+#: inc/widgets/widget_social_media.php:62
+msgid "Google Plus:"
+msgstr ""
+
+#: inc/widgets/widget_social_media.php:65
+msgid "Pinterest:"
+msgstr ""
+
+#: inc/widgets/widget_social_media.php:68
+msgid "RSS:"
+msgstr ""

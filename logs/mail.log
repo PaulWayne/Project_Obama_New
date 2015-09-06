@@ -1,0 +1,6 @@
+2015-09-02 07:00:03 u78102946 2wibxj-1ZRYdr20Y8-00EKdy |< REMOTE=107.173.160.108 SCRIPT=/wp-comments-post.php -- /usr/sbin/sendmail -t -i
+2015-09-02 07:00:03 u78102946 2wibxj-1ZRYdr20Y8-00EKdy <= S=wordpress@obamaelectronique.com SZ=3049 D=0 SID=538819875
+2015-09-02 07:00:03 u78102946 2wibxj-1ZRYdr20Y8-00EKdy => admin@obamaelectronique.com msmtp.kundenserver.de[172.19.35.7] 250 Message 0MSlXs-1Z5buh2jFU-00RVol accepted by mreue006.kundenserver.de
+2015-09-02 07:00:03 u78102946 2vkL36-1Yi4KG2wzj-00u3qd |< REMOTE=107.173.160.108 SCRIPT=/wp-comments-post.php -- /usr/sbin/sendmail -t -i
+2015-09-02 07:00:03 u78102946 2vkL36-1Yi4KG2wzj-00u3qd <= S=wordpress@obamaelectronique.com SZ=3044 D=0 SID=538819875
+2015-09-02 07:00:03 u78102946 2vkL36-1Yi4KG2wzj-00u3qd => lamine.dialo@gmail.com msmtp.kundenserver.de[172.19.35.7] 250 Message 0LzlaB-1YbVom3BvH-014yqc accepted by mreue007.kundenserver.de

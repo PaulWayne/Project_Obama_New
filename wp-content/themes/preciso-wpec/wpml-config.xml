@@ -1,0 +1,19 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">designation</custom-field>
+        <custom-field action="translate">subtitle</custom-field>
+        <custom-field action="translate">icons_textblock</custom-field>
+        <custom-field action="translate">page_desc</custom-field>
+        <custom-field action="translate">product_label</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">services</custom-type>
+        <custom-type translate="1">portfolio</custom-type>
+		<custom-type translate="1">team</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">portfolio-categories</taxonomy>
+    </taxonomies> 
+</wpml-config>
+
+

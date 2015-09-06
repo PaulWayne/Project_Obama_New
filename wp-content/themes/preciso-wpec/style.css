@@ -1,0 +1,31 @@
+/*
+	Theme Name: Preciso eCommerce & Multipurpose
+	Theme URI: http://themeforest.net/user/pixel-art-inc/?ref=pixel-art-inc
+	Description: Preciso is an elegant and premium wordpress e-commerce theme. Can be used for e-commerce, corporate, personal, portfolio or blog sites..
+	Version: 1.0
+	Author: Pixelart Inc.
+	Author URI: http://www.pixelartinc.com/
+	Tags: black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+	License: GNU General Public License version 3.0
+	License URI: http://www.gnu.org/licenses/gpl-3.0.html
+	Text Domain: PIXELART
+*/
+
+
+/****************************************************************************
+WP CORE CLASSES
+****************************************************************************/
+.alignnone { margin: 5px 20px 20px 0; }
+.aligncenter { display: block; margin: 5px auto 5px auto; }
+.alignright { float:right; margin: 5px 0 20px 20px; }
+.alignleft { float: left; margin: 5px 20px 20px 0; }
+.wp-caption { background: #fff; border: 1px solid #f0f0f0; max-width: 96%; padding: 5px 3px 10px; text-align: center; }
+.wp-caption.alignnone { margin: 5px 20px 20px 0; }
+.wp-caption.alignleft { margin: 5px 20px 20px 0; }
+.wp-caption.alignright { margin: 5px 0 20px 20px; }
+.wp-caption img { border: 0 none; height: auto; margin: 0; max-width: 98.5%; padding: 0; width: auto; }
+.wp-caption p.wp-caption-text { font-size: 11px; line-height: 17px; margin: 0; padding: 0 4px 5px; }
+.sticky {}
+.gallery-caption {}
+.bypostauthor {}
+.nocomments {}
