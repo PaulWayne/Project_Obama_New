@@ -139,13 +139,13 @@ Breadcrumbs
 ****************************************************************************/
 function pixelart_breadcrumbs() {
 
-    $text['home']       = __('Home', PIXELART);
+    $text['home']       = __('Accueil', PIXELART);
     $text['blog']       = __('Blog', PIXELART);
-    $text['category']   = __('Archive by Category "%s"', PIXELART);
-    $text['search']     = __('Search Results for "%s"', PIXELART);
+    $text['category']   = __('Archive par catégorie "%s"', PIXELART);
+    $text['search']     = __('Resultat de la recherche  "%s"', PIXELART);
     $text['tag']        = __('Posts Tagged "%s"', PIXELART);
-    $text['author']     = __('Articles Posted by %s', PIXELART);
-    $text['404']        = __('Error 404', PIXELART);
+    $text['author']     = __('Articles Posté par %s', PIXELART);
+    $text['404']        = __('Erreur 404', PIXELART);
 
     $show_current   = 1;
     $show_on_home   = 0;

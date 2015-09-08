@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a661973d-3782-44fc-b676-b8dc9d2479a8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/preciso-wpec/functions/custom_functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/preciso-wpec/functions/custom_functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/welcome-email-editor/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/welcome-email-editor/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/welcome-email-editor/sb_welcome_email_editor.php" afterPath="$PROJECT_DIR$/wp-content/plugins/welcome-email-editor/sb_welcome_email_editor.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Project_Obama.iws" />
@@ -25,42 +28,89 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="wpsc-products_page.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/wpsc-products_page.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.6538463">
-              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template-product-4col.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/templates/template-product-4col.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.230769">
-              <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template-home.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/templates/template-home.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="21.576923">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.008726004">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            <state vertical-scroll-proportion="-5.230769">
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wpsc-single_product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/wpsc-single_product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.581818">
+              <caret line="249" column="21" selection-start-line="249" selection-start-column="21" selection-end-line="249" selection-end-column="21" />
+              <folding>
+                <marker date="1441735958894" expanded="true" signature="13260:13323" placeholder="Select a fil..your..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom_functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/functions/custom_functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="14.307693">
+              <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+              <folding>
+                <marker date="1441738336243" expanded="true" signature="18572:18675" placeholder="SELECT * FRO..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.17302799">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme_options.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/functions/theme_options.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-25.923077">
+              <caret line="275" column="18" selection-start-line="275" selection-start-column="18" selection-end-line="275" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.8076925">
+              <caret line="107" column="42" selection-start-line="107" selection-start-column="42" selection-end-line="107" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wpsc-transaction_results.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/wpsc-transaction_results.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.576923">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wpsc-transaction_results_functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-e-commerce/wpsc-theme/functions/wpsc-transaction_results_functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.538462">
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+              <folding>
+                <marker date="1441564721452" expanded="true" signature="4125:4204" placeholder="SELECT `sess..." />
+                <marker date="1441564721452" expanded="true" signature="4925:5006" placeholder="SELECT `id` ..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,25 +118,9 @@
       <file leaf-file-name="ot-functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/option-tree/includes/ot-functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.6923075">
-              <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+            <state vertical-scroll-proportion="-9.307693">
+              <caret line="28" column="39" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="39" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="query.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-includes/query.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.961538">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-              <folding>
-                <marker date="1441408345509" expanded="true" signature="89681:89772" placeholder="SELECT ${$di..." />
-                <marker date="1441408345509" expanded="true" signature="97887:97983" placeholder="SELECT ${$fo..." />
-                <marker date="1441408345509" expanded="true" signature="99835:99939" placeholder="SELECT ${$fo..." />
-                <marker date="1441408345509" expanded="true" signature="102213:102294" placeholder="SELECT ${$wp..." />
-                <marker date="1441408345509" expanded="true" signature="131970:132107" placeholder="SELECT post_..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -94,11 +128,9 @@
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.0769231">
+            <state vertical-scroll-proportion="0.0">
               <caret line="352" column="28" selection-start-line="352" selection-start-column="28" selection-end-line="352" selection-end-column="28" />
-              <folding>
-                <marker date="1441554995367" expanded="true" signature="11525:11965" placeholder="SELECT disti..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -121,6 +153,10 @@
         <option value="$PROJECT_DIR$/wp-content/themes/preciso-wpec/wpsc-products_page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/preciso-wpec/templates/template-product-4col.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/preciso-wpec/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/preciso-wpec/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/preciso-wpec/wpsc-single_product.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/preciso-wpec/functions/custom_functions.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
       </list>
     </option>
   </component>
@@ -164,8 +200,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,12 +218,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Obama" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Obama" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_054f2e797ebafd44a30203088cd3d58663c627ef/cmd/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -252,24 +302,25 @@
     <frame x="1272" y="-8" width="1040" height="784" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32040817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19183673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32961783" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25230768" sideWeight="0.4404297" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25358853" sideWeight="0.5595703" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2531847" sideWeight="0.5595703" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -303,6 +354,9 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -310,40 +364,53 @@
           <url>file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/wpsc-shopping_cart_page.php</url>
           <line>108</line>
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/wp-content/plugins/wp-e-commerce/wpsc-theme/functions/wpsc-transaction_results_functions.php</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/header.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/wpsc-products_page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-e-commerce/wpsc-core/wpsc-includes.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/templates/template-product-4col.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-e-commerce/wpsc-includes/purchase-log-notification.class.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/templates/template-home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="426" column="75" selection-start-line="426" selection-start-column="31" selection-end-line="426" selection-end-column="75" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-e-commerce/wpsc-includes/wpsc-checkout-localization.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/option-tree/includes/ot-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -351,132 +418,44 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1441554995367" expanded="true" signature="11525:11965" placeholder="SELECT disti..." />
-          </folding>
+          <caret line="352" column="28" selection-start-line="352" selection-start-column="28" selection-end-line="352" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/user-new.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
-          <folding>
-            <marker date="1441408338720" expanded="true" signature="-1:-1" placeholder="SELECT activ..." />
-          </folding>
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-e-commerce/wpsc-core/wpsc-includes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-e-commerce/wpsc-includes/purchase-log-notification.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="426" column="75" selection-start-line="426" selection-start-column="31" selection-end-line="426" selection-end-column="75" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-blog-header.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-e-commerce/wpsc-includes/wpsc-checkout-localization.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="47" />
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-load.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="60" column="50" selection-start-line="60" selection-start-column="50" selection-end-line="60" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-blog-header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-load.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-blog-header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-load.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="60" column="50" selection-start-line="60" selection-start-column="50" selection-end-line="60" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xmlrpc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.7894738">
-          <caret line="88" column="43" selection-start-line="88" selection-start-column="43" selection-end-line="88" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.6153846">
-          <caret line="86" column="48" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -491,7 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-18.641603">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -516,13 +494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-e-commerce/wpsc-theme/functions/wpsc-transaction_results_functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.192308">
-          <caret line="91" column="213" selection-start-line="91" selection-start-column="213" selection-end-line="91" selection-end-column="213" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -530,37 +501,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/user-new.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
-          <folding>
-            <marker date="1441408338720" expanded="true" signature="-1:-1" placeholder="SELECT activ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-e-commerce/wpsc-core/wpsc-includes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.72208434">
-          <caret line="836" column="14" selection-start-line="836" selection-start-column="8" selection-end-line="836" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="863" column="0" selection-start-line="863" selection-start-column="0" selection-end-line="863" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -568,7 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43855423">
           <caret line="51" column="79" selection-start-line="51" selection-start-column="79" selection-end-line="51" selection-end-column="79" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -576,7 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39518073">
           <caret line="59" column="11" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -584,11 +526,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.7272727">
           <caret line="169" column="10" selection-start-line="169" selection-start-column="10" selection-end-line="169" selection-end-column="10" />
-          <folding>
-            <marker date="1441310108597" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1441310108597" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1441310108597" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -596,7 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.5">
           <caret line="502" column="57" selection-start-line="502" selection-start-column="57" selection-end-line="502" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -604,15 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="5.9663463">
           <caret line="155" column="19" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.576923">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -620,87 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.74080884">
           <caret line="817" column="1" selection-start-line="817" selection-start-column="1" selection-end-line="817" selection-end-column="1" />
-          <folding>
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="SELECT id FR..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="ALTER TABLE ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="ALTER TABLE ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="ALTER TABLE ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="ALTER TABLE ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="ALTER TABLE ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="ALTER TABLE ..." />
-            <marker date="1441408846695" expanded="true" signature="-1:-1" placeholder="SELECT uniqu..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -708,7 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.02439">
           <caret line="40" column="87" selection-start-line="40" selection-start-column="78" selection-end-line="40" selection-end-column="87" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,20 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.8125">
           <caret line="633" column="16" selection-start-line="633" selection-start-column="16" selection-end-line="633" selection-end-column="16" />
-          <folding>
-            <marker date="1441408847843" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
-            <marker date="1441408847843" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
-            <marker date="1441408847843" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1441408847843" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1441408847843" expanded="true" signature="-1:-1" placeholder="SELECT `id`,..." />
-            <marker date="1441408847843" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
-            <marker date="1441408847843" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
-            <marker date="1441408847843" expanded="true" signature="-1:-1" placeholder="SELECT MIN(`..." />
-            <marker date="1441408847843" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
-            <marker date="1441408847843" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
-            <marker date="1441408847843" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
-            <marker date="1441408847843" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -737,15 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.40625">
           <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/option-tree/includes/ot-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.6923075">
-          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,13 +576,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46596858">
           <caret line="35" column="87" selection-start-line="35" selection-start-column="87" selection-end-line="35" selection-end-column="87" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/wpsc-products_page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.6538463">
+        <state vertical-scroll-proportion="0.0">
           <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
           <folding />
         </state>
@@ -767,7 +589,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/templates/template-home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="21.576923">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -775,40 +597,95 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/templates/template-product-4col.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.230769">
+        <state vertical-scroll-proportion="0.0">
           <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/query.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.961538">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-          <folding>
-            <marker date="1441408345509" expanded="true" signature="89681:89772" placeholder="SELECT ${$di..." />
-            <marker date="1441408345509" expanded="true" signature="97887:97983" placeholder="SELECT ${$fo..." />
-            <marker date="1441408345509" expanded="true" signature="99835:99939" placeholder="SELECT ${$fo..." />
-            <marker date="1441408345509" expanded="true" signature="102213:102294" placeholder="SELECT ${$wp..." />
-            <marker date="1441408345509" expanded="true" signature="131970:132107" placeholder="SELECT post_..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0769231">
+        <state vertical-scroll-proportion="0.0">
           <caret line="352" column="28" selection-start-line="352" selection-start-column="28" selection-end-line="352" selection-end-column="28" />
-          <folding>
-            <marker date="1441554995367" expanded="true" signature="11525:11965" placeholder="SELECT disti..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.008726004">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/wpsc-single_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.581818">
+          <caret line="249" column="21" selection-start-line="249" selection-start-column="21" selection-end-line="249" selection-end-column="21" />
+          <folding>
+            <marker date="1441735958894" expanded="true" signature="13260:13323" placeholder="Select a fil..your..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/option-tree/includes/ot-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.307693">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/functions/theme_options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.923077">
+          <caret line="275" column="18" selection-start-line="275" selection-start-column="18" selection-end-line="275" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.8076925">
+          <caret line="107" column="42" selection-start-line="107" selection-start-column="42" selection-end-line="107" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/wpsc-transaction_results.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-e-commerce/wpsc-theme/functions/wpsc-transaction_results_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.538462">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <marker date="1441564721452" expanded="true" signature="4125:4204" placeholder="SELECT `sess..." />
+            <marker date="1441564721452" expanded="true" signature="4925:5006" placeholder="SELECT `id` ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/preciso-wpec/functions/custom_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="14.307693">
+          <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+          <folding>
+            <marker date="1441738336243" expanded="true" signature="18572:18675" placeholder="SELECT * FRO..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17302799">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
